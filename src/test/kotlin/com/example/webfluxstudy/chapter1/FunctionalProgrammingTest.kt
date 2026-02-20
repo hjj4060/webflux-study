@@ -1,8 +1,7 @@
-package com.example.webfluxstudy
+package com.example.webfluxstudy.chapter1
 
 import org.springframework.boot.test.context.SpringBootTest
 import reactor.core.publisher.Flux
-import java.util.stream.IntStream
 import kotlin.test.Test
 
 @SpringBootTest
